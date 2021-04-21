@@ -6,8 +6,14 @@ Installation Library as follow belows:
 - AppiumLibrary
 
 &nbsp;
+###  Preconditions
+Install Robot Framework and AppiumLibrary
 
-###  [Command Line to run testcases]
+The simplest way is using pip package manager:
+```sh
+pip install -r requirements.txt
+ ```
+####  [Command Line to run testcases]
 **Example for Android**
 ```sh
 robot android.robot
