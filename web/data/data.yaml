@@ -1,0 +1,7 @@
+web:
+    user:             kbuaboktest@gmail.com
+    pass:             '!234Abcd'
+    add_todo:         Neversitup
+    edit_todo:        Edit
+    url_todo:         https://todoist.com
+    
