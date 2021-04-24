@@ -8,4 +8,4 @@ Click Sign Up
 
 Click Login
     [Documentation]    Click Login in on home page
-    common.Click Element When Ready        xpath=(//a[@href="/users/showlogin" and .="Log in"])[1]
+    common.Click Element When Ready        xpath=(//a[@href="/users/showlogin"])[1]

@@ -1,6 +1,7 @@
 *** Settings ***
 Library     SeleniumLibrary
 # Library     AppiumLibrary
+Library     DebugLibrary
 Library     JSONLibrary
 Library     OperatingSystem
 Library     RequestsLibrary
