@@ -18,4 +18,8 @@ pip install -r requirements.txt
 ```sh
 robot android.robot
  ```
+ **Example for WEB**
+```sh
+robot web.robot
+ ```
 
