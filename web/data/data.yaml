@@ -1,7 +1,16 @@
-web:
-    user:             kbuaboktest@gmail.com
-    pass:             '!234Abcd'
-    add_todo:         Neversitup
-    edit_todo:        Edit
-    url_todo:         https://todoist.com
+url_todo:         https://todoist.com
+
+Register:
+    email:             todoist-test+epoch@gmail.com
+    username:          todoist-test
+    password:          password
+    setup_theme:       todoist
+
+Add_Task:
+    add_text:          TESTTESTTESTTESTTESTTESTTESTTESTTESTTESTTEST
+    edit_test:         editeditediteditediteditediteditediteditedit
+
+Sort:
+    sequence:           '20'
+    sort_by:            Sort alphabetically
     

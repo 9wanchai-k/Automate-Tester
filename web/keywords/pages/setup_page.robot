@@ -4,7 +4,7 @@ Resource    ../../data/import.robot
 *** Keywords ***
 Check go to page setup
     [Documentation]    Check go to page setup
-    Wait Until Element Is Visible    xpath=//div[@class='tdo-body']
+    Wait Until Element Is Visible      xpath=//div[@class='tdo-body']
 
 Select Theme
     [Documentation]     Select Theme on page setup
